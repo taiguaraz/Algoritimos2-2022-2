@@ -1,0 +1,8 @@
+{'pais': 'Brasil', 'abr': 'BR', 'grupo': 'A'}
+{'pais': 'Argentina', 'abr': 'AR', 'grupo': 'A'}
+{'pais': 'Chile', 'abr': 'CH', 'grupo': 'B'}
+{'pais': 'Uruguai', 'abr': 'UR', 'grupo': 'B'}
+{'pais': 'Camarões', 'abr': 'CA', 'grupo': 'C'}
+{'pais': 'Nigéria', 'abr': 'NI', 'grupo': 'C'}
+{'pais': 'Espanha', 'abr': 'ES', 'grupo': 'D'}
+{'pais': 'Portugual', 'abr': 'PO', 'grupo': 'D'}
